@@ -4,7 +4,7 @@
 
 ## Ссылка для скачивания:
 
-- **dlc.dat**：[https://github.com/makdren/Ru-domains/releases/download/Обновление/dlc.dat](hhttps://github.com/makdren/Ru-domains/releases/download/Обновление/dlc.dat)
+- **dlc.dat**：[https://github.com/makdren/Ru-domains/releases/download/new/dlc.dat](https://github.com/makdren/Ru-domains/releases/download/new/dlc.dat)
 
 ## Дополнительная информация
 В данный список будут добовляться российсуие компании, если вы хотите добавть какую-то компанию, напишите в issues
