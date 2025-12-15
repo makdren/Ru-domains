@@ -4,7 +4,7 @@
 
 ## Ссылка для скачивания:
 
-- **dlc.dat**：[https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat](https://github.com/makdren/Ru-domains/releases/latest/download/dlc.dat)
+- **dlc.dat**：[https://github.com/makdren/Ru-domains/releases/latest/download/dlc.dat](https://github.com/makdren/Ru-domains/releases/latest/download/dlc.dat)
 
 ## Дополнительная информация
 В данный список будут добовляться российсуие компании, если вы хотите добавть какую-то компанию, напишите в issues
