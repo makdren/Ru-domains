@@ -1,4 +1,4 @@
-module github.com/makdren/Ru-domains
+module github.com/v2fly/domain-list-community
 
 go 1.24
 
