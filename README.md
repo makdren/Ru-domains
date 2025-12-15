@@ -22,7 +22,7 @@ wget https://github.com/makdren/Ru-domains/releases/download/new/dlc.dat
 
 ### 🏗️ Основа
 
-· domain-list-community               
+· domain-list-community[https://github.com/v2fly/domain-list-community]              
 · russia-mobile-internet-whitelist
 
 ---
