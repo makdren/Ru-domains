@@ -9,7 +9,7 @@
 ## Дополнительная информация
 В данный список будут добовляться российские компании, если вы хотите добавть какую-то компанию, напишите в issues
 
-Основа проекта:
+Основа проекта:             
 • domain list community - https://github.com/v2fly/domain-list-community
 
 • russia mobile internet whitelist - https://github.com/hxehex/russia-mobile-internet-whitelist
